@@ -13,13 +13,13 @@ int main() {
     string name;
     string surname;
 
-    cout << "Ââåäèòå èìÿ: ";
+    cout << "Ã‚Ã¢Ã¥Ã¤Ã¨Ã²Ã¥ Ã¨Ã¬Ã¿: ";
     cin >> name;
 
-    cout << "Ââåäèòå ôàìèëèş: ";
+    cout << "Ã‚Ã¢Ã¥Ã¤Ã¨Ã²Ã¥ Ã´Ã Ã¬Ã¨Ã«Ã¨Ã¾: ";
     cin >> surname;
 
-    cout << "Çäğàâñòâóéòå, " << name << " " << surname << "!" << endl;
+    cout << "Ã‡Ã¤Ã°Ã Ã¢Ã±Ã²Ã¢Ã³Ã©Ã²Ã¥, " << name << " " << surname << "!" << endl;
 
     return 0;
 }
