@@ -13,13 +13,13 @@ int main() {
     string name;
     string surname;
 
-    cout << "Ââåäèòå èìÿ: ";
+    cout << "Введите имя: ";
     cin >> name;
 
-    cout << "Ââåäèòå ôàìèëèþ: ";
+    cout << "Введите фамилию: ";
     cin >> surname;
 
-    cout << "Çäðàâñòâóéòå, " << name << " " << surname << "!" << endl;
+    cout << "Здравствуйте, " << name << " " << surname << "!" << endl;
 
     return 0;
 }
